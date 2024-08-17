@@ -88,11 +88,13 @@ $ source env/bin/activate
 $ pip install -r requirements.txt
 ```
 
-> 👉 Install **Tailwind/Flowbite** (separate terminal)
+> 👉 Compile React UI
+
+> **Node Version**: `v18.20.0` or above
 
 ```bash
 $ npm install
-$ npm run dev        
+$ npm run build
 ```
 
 > 👉 Migrate DB
