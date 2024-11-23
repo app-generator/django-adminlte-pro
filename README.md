@@ -3,8 +3,8 @@
 Premium Django starter built with Database, DB Tools, API, OAuth, Celery, and React Integration with AdminLTE Design.
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
-- 👉 [Django AdminLTE](https://app-generator.dev/docs/products/django/adminlte-pro/index.html) - **Complete Documentation**
-- 👉 [Django AdminLTE](https://django-adminlte-pro.onrender.com) - LIVE Demo 
+- 👉 [Django AdminLTE PRO](https://app-generator.dev/docs/products/django/adminlte-pro/index.html) - **Complete Documentation**
+- 👉 [Django AdminLTE PRO](https://django-adminlte-pro.onrender.com/charts/) - LIVE Demo 
 - 👉 [Get Support](https://app-generator.dev/ticket/create/) via Email and Discord
 
 <br />
@@ -16,9 +16,9 @@ The product is designed to deliver the best possible user experience with highly
 * **OAuth** - Github
 * **Extended User Profile**
 * **API** via DRF 
-* **Charts** via ApexJS 
-* **React Integration** (new) 
-* **Dynamic DataTables**
+* **[Charts](https://django-adminlte-pro.onrender.com/charts/)** via ApexJS 
+* **[React Integration](https://django-adminlte-pro.onrender.com/react-charts)** (new) 
+* **[Dynamic DataTables](https://django-adminlte-pro.onrender.com/tables/)**
 * **CSV to Model** Generator
 * **CSV** Loader 
 * **Celery** (async tasks)
