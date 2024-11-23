@@ -15,7 +15,7 @@ The product is designed to deliver the best possible user experience with highly
 * **AdminLTE** Design 
 * **OAuth** - Github
 * **Extended User Profile**
-* **API** via DRF 
+* **[API](https://django-adminlte-pro.onrender.com/api/sales/)** via DRF 
 * **[Charts](https://django-adminlte-pro.onrender.com/charts/)** via ApexJS 
 * **[React Integration](https://django-adminlte-pro.onrender.com/react-charts)** (new) 
 * **[Dynamic DataTables](https://django-adminlte-pro.onrender.com/tables/)**
