@@ -1,11 +1,29 @@
 # Change Log
 
-## [1.0.3] 2024-11-24 
+## [1.0.6] 2025-04-27 
+### [Django AdminLTE PRO](https://app-generator.dev/product/adminlte-pro/django/) Changes
+
+- Added Dynamic Tables module
+- Added Dynamic API Module
+- Added Charts  
+- Added CLI Module for different internal tasks
+
+## [1.0.5] 2025-01-21 
 ### Changes
 
-- Update RM Links:
-  - [Django AdminLTE PRO](https://app-generator.dev/product/adminlte-pro/django/)
-  - [Django AdminLTE PRO Documentation](https://app-generator.dev/docs/products/django/adminlte-pro/index.html)
+- Added Pandas to requirements
+
+## [1.0.4] 2024-09-07 
+### Changes
+
+- CSV Processor
+  - CSV to Model
+  - CSV data to DB  
+
+## [1.0.3] 2024-09-06 
+### Changes
+
+- Added Dynamic DataTables
 
 ## [1.0.2] 2024-08-17 
 ### Changes
