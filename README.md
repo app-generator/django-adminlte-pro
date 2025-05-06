@@ -5,12 +5,6 @@
 - 👉 [Django AdminLTE PRO](https://app-generator.dev/product/adminlte-pro/django/) - `Product Page`
 - 👉 [Django AdminLTE PRO](https://django-adminlte-pro.onrender.com/) - `LIVE Demo` 
 - 👉 [Django AdminLTE PRO](https://app-generator.dev/docs/products/django/adminlte-pro/index.html) - `Complete Information` and Support Links
-  - [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html) - a `comprehensive tutorial`
-  - `Configuration`: Install Tailwind/Flowbite, Prepare Environment, Setting up the Database 
-  - `Start with Docker`
-  - `Manual Build`
-  - `Start the project`
-  - `Deploy on Render`
 
 <br /> 
 
@@ -18,20 +12,42 @@
 
 - Simple, Easy-to-Extend Codebase
 - [AdminLTE](https://app-generator.dev/product/adminlte/) Design Integration 
-- Dynamic Tables - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
-- Dynamic API - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
-- Charts
+- Bootstrap Styling 
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
-- Session-based Authentication, Password recovery
-- OAuth GitHub, Google
-- Celery for Async Tasks  
+- Extended Users Profiles
+- Authentication
+   - Session-based 
+   - OAuth GitHub, Google
+- Apps:
+  - [DEMO](https://django-adminlte-pro.onrender.com/dynamic-dt/product/) **Dynamic DataTables** - generate server-side datatables without coding  
+  - [DEMO](https://django-adminlte-pro.onrender.com/api/) **Dynamic APIs** - Expose secure APIs without coding  
+  - [DEMO](https://django-adminlte-pro.onrender.com/charts/) **Charts** - powered by ApexCharts 
+  - [DEMO](https://django-adminlte-pro.onrender.com/react-charts) **React Integration**
+  - **Media Files Manager** - empower users to manage and preview files with ease
+  - **Celery** (async tasks)
 - [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
-    - [Commit/rollback Git Changes](https://app-generator.dev/docs/developer-tools/django-cli/git-interface.html)
+    - `Commit/rollback Git Changes`
     - `Backup & restore DB`
-    - [Interact with Django Core](https://app-generator.dev/docs/developer-tools/django-cli/query-django.html)
+    - `Interact with Django Core`
     - `Manage Environment`
-    - `Manage Dependencies`
-- Docker, CI/CD for Render
+    - `Manage Dependencies`  
+- [Deployment](https://app-generator.dev/docs/deployment.html)
+  - Docker/Docker Compose Scripts 
+  - CI/CD for [Render](https://app-generator.dev/docs/deployment/render/index.html)
+
+<br />
+
+## [Documentation](https://app-generator.dev/docs/products/django/adminlte-pro/index.html)
+
+- Understand the codebase structure
+- Prepare the environment
+- Setting Up the Database
+- Start the Project
+- Switch from SQLite to MySql or PgSql
+- Add a new model and migrate database
+- Enable `Dynamic Tables` for a new model
+- Enable `Dynamic API` for a new model
+- Deploy on Render
 
 ![Django AdminLTE - The premium version: API, Charts, React Intergration, Dynamic DT, and Docker Support.](https://github.com/user-attachments/assets/892dd62b-2127-4a8c-ba44-932999fdddbc)
 

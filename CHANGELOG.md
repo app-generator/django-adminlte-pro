@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.7] 2025-05-06 
+### [Django AdminLTE PRO](https://app-generator.dev/product/adminlte-pro/django/) Changes
+
+- Added React Support
+
 ## [1.0.6] 2025-04-27 
 ### [Django AdminLTE PRO](https://app-generator.dev/product/adminlte-pro/django/) Changes
 
